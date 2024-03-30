@@ -1,6 +1,7 @@
 # Trabalho Sobre Chamadas de Sistemas
 
-| COMANDO | DESCRIÇÃO |
+| COMANDO             | DESCRIÇÃO           |
+| :-----------------: | :-----------------: |
 | date | utilizando a função "time()" é possivel conseguir o tempo em segundos desde a Epoch (1 de Janeiro de 1970, 00:00:00 UTC |
 | uptime | utiliza-se a função "getUpTime()" para acessar a função "sysinfo()" que da acesso as informações do sistema incluindo o tempo de boot |
 | ls | utiliza-se as funções "opendir()" e "closedir()" para abrir e fechar diretórios a fim de listá-los |
